@@ -1,6 +1,6 @@
 const display = document.querySelector('.display'); 
 const buttons = document.querySelectorAll('button'); 
-
+const specialChar = ['+', '-', '*', '÷',"%","="];
 const calulate = document.querySelector
 
 buttons.forEach((button) => {
